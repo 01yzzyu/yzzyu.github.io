@@ -20,7 +20,7 @@ repository               : "https://01yzzyu.github.io/yzzyu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/IMG_9276.png"
+  avatar           : "IMG_9276.png"
   name             : "Zhongyu Yang"
   bio              : "Student of School of Mathematics and Statistics , Lanzhou University "
 
