@@ -11,7 +11,7 @@ Hi! I’m Zhongyu Yang (杨忠裕), a third-year (senior) undergraduate student 
 
 I intend to pursue my Ph.D. degree now.
 
-My research interests include Energy Economics and AI for Science (Medical). You may relate to [my personal CV](../assets/CV all.pdf) for more information. 
+My research interests include Energy Economics and AI for Science (Medical). You may relate to [my personal CV](../assets/CV.pdf) for more information. 
 
 Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
 
