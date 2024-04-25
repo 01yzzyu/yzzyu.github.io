@@ -34,7 +34,7 @@ Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn.
 
 2023.03:🔥 Our paper [Analysis and Forecast of GDP of Gansu Province based on ARIMA Model](https://kns.cnki.net/kcms2/article/abstract?v=5UWSsHjGZiG4_hfQdJi2g45CsnhSUqAQWLr8QGITMYDA17gfF5JJx5zplDrZWLEtUw_cwdGQB4McAih5ZHCedzgYrtUdVTeeg8lwHr4Mw1ptUxJGRhILZmxdAXcxNVzRIf7iDdCVtPE=&uniplatform=NZKPT&flag=copy) is accepted to Chinese Market( Chinese core journal)! 
 
-2024.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project Tropical Linear Representation of Involute Chinese Monoids, under the guidance of Professor Wenting Zhang.
+2024.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project Tropical Linear Representation of Involute Chinese Monoids, advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
 
 
 📝 Publications
