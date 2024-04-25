@@ -21,17 +21,17 @@ Feel free to reach out if you want to chat or collaborate
 
 2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project.
 
-2024.04: Now working as a research assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
+2024.04:Now working as a research assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
-2024.03: Work as a remote research assistant with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying Computer Vision.
+2024.03:Work as a remote research assistant with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying Computer Vision.
 
-2024.01: 🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an outstanding undergraduate project in the Central Universities Basic Research Fund (Barley Plan). 
+2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an outstanding undergraduate project in the Central Universities Basic Research Fund (Barley Plan). 
 
 2024.06: Work as a data analysis assistant in Product Operation Intern of Smart Home Department,iFLYTEK Co., Ltd.
 
-2023.05: 🔥🔥 Our paper [Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy](https://doi.org/10.1016/j.renene.2023.05.044) is accepted to TOP Journals Renewable Energy! A collabrative work with Mengying Su.
+2023.05:🔥🔥 Our paper [Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy](https://doi.org/10.1016/j.renene.2023.05.044) is accepted to TOP Journals Renewable Energy! A collabrative work with Mengying Su.
 
-2023.03: 🔥 Our paper [Analysis and Forecast of GDP of Gansu Province based on ARIMA Model](https://kns.cnki.net/kcms2/article/abstract?v=5UWSsHjGZiG4_hfQdJi2g45CsnhSUqAQWLr8QGITMYDA17gfF5JJx5zplDrZWLEtUw_cwdGQB4McAih5ZHCedzgYrtUdVTeeg8lwHr4Mw1ptUxJGRhILZmxdAXcxNVzRIf7iDdCVtPE=&uniplatform=NZKPT&flag=copy) is accepted to Chinese Market( Chinese core journal)! 
+2023.03:🔥 Our paper [Analysis and Forecast of GDP of Gansu Province based on ARIMA Model](https://kns.cnki.net/kcms2/article/abstract?v=5UWSsHjGZiG4_hfQdJi2g45CsnhSUqAQWLr8QGITMYDA17gfF5JJx5zplDrZWLEtUw_cwdGQB4McAih5ZHCedzgYrtUdVTeeg8lwHr4Mw1ptUxJGRhILZmxdAXcxNVzRIf7iDdCVtPE=&uniplatform=NZKPT&flag=copy) is accepted to Chinese Market( Chinese core journal)! 
 
 2024.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project Tropical Linear Representation of Involute Chinese Monoids, under the guidance of Professor Wenting Zhang.
 
