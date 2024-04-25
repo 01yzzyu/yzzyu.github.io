@@ -20,7 +20,7 @@ Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn.
 🔥 News
 ======
 
-2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor [Xinhua Wang]([http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45](https://physz.lzu.edu.cn/system/phyqt/content.jsp?id=369)).
+2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
 
 2024.04:Now working as a research assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
