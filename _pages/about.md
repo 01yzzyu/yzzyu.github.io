@@ -57,7 +57,7 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 2023.11:🔥🔥 Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (iDEC) 2023 
 
-2023.09:Provincial-level Gold Medal in China College Students’ ’Internet+’ Innovation and Entrepreneurship Competition （
+2023.09:Provincial-level Gold Medal in China College Students’ ’Internet+’ Innovation and Entrepreneurship Competition
 
 2023.08:International College Mathematical Modeling Competition Meritorious Winner 
 
