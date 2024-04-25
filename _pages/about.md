@@ -15,9 +15,10 @@ My research interests include Energy Economics ,computer vision and AI for Scien
 
 Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
 
-Feel free to reach out if you want to chat or collaborate
+Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn.
 
 🔥 News
+======
 
 2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project.
 
@@ -45,8 +46,44 @@ Feel free to reach out if you want to chat or collaborate
 Mengying Su, Zhongyu Yang*, Shujaat Abbas, et al.
 
 
-Abstract:The considerable increase in municipal waste has become a primary global concern due to the contamination of the environment through the emission of greenhouse gases. Therefore, many OECD countries have adopted 
-municipal waste management practices. This study is a baseline attempt to explore the long-term effect of municipal waste management along with the energy transition, environmental innovation, and environmental policy stringency on GHG emissions in ten OECD countries from 1994 to 2020. This objective is realized by using non-parametric panel quantile regression. The estimated result reveals the asymmetric effect of selected explanatory variables on GHG emissions at various quantiles. The findings show that an increase in municipal waste can increase GHGs emissions at lower quantiles, while an insignificant effect is observed at higher quantiles. Similarly, energy transition, environmental innovation, and environmental policy stringency reveal asymmetric effects across the quantiles. The findings urge OECD countries to adopt more efficient municipal waste management practices and encourage renewable energy transition and environmental innovation. Environmental policy stringency can also be instrumental in enhancing environmental sustainability.
+Abstract:The considerable increase in municipal waste has become a primary global concern due to the contamination of the environment through the emission of greenhouse gases. Therefore, many OECD countries have adopted municipal waste management practices. This study is a baseline attempt to explore the long-term effect of municipal waste management along with the energy transition, environmental innovation, and environmental policy stringency on GHG emissions in ten OECD countries from 1994 to 2020. This objective is realized by using non-parametric panel quantile regression. The estimated result reveals the asymmetric effect of selected explanatory variables on GHG emissions at various quantiles. The findings show that an increase in municipal waste can increase GHGs emissions at lower quantiles, while an insignificant effect is observed at higher quantiles. Similarly, energy transition, environmental innovation, and environmental policy stringency reveal asymmetric effects across the quantiles. The findings urge OECD countries to adopt more efficient municipal waste management practices and encourage renewable energy transition and environmental innovation. Environmental policy stringency can also be instrumental in enhancing environmental sustainability.
 
 
 📄 Manuscripts
+
+
+🎖️ Honors and Awards
+======
+
+2023.11:🔥🔥 Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (iDEC) 2023 
+
+2023.09:Provincial-level Gold Medal in China College Students’ ’Internet+’ Innovation and Entrepreneurship Competition 
+
+2023.08:International College Mathematical Modeling Competition Meritorious Winner 
+
+2023.05:Honorable Award of the American Collegiate Mathematical Contest in Modeling
+
+2023.02:🔥 National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
+
+2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition 
+
+2022.10:🔥 First Prize in the National 2022 Second China University Big Data Challenge 
+
+2023.02:National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
+
+📖 Educations
+======
+
+2021.09 - 2025.06(Expected), Undergraduate, School of Mathematics and Statistics, Lanzhou University, Lanzhou, Gansu.
+
+
+💻 Internships
+======
+
+2023.04 - Present, Research Assistant, CUHKSZ, Shenzhen，advised with [Ruimao Zhang](http://www.zhangruimao.site/).
+
+2023.03 - Present, Remote Research Assistant, advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Postdoctoral in Heriot-Watt University,UK.
+
+2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Beijing.
+
+
