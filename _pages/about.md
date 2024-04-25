@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhongyu Yang (杨忠裕), a third-year (senior) undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics and Applied Mathematics. Currently, I am working as a research asssistant at CUHKSZ.
+Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics and Applied Mathematics. Currently, I am working as a research asssistant at CUHKSZ.
 
 I intend to pursue my Ph.D. degree now.
 
@@ -20,13 +20,13 @@ Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn.
 🔥 News
 ======
 
-2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project.
+2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor [Xinhua Wang]([http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45](https://physz.lzu.edu.cn/system/phyqt/content.jsp?id=369)).
 
 2024.04:Now working as a research assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
 2024.03:Work as a remote research assistant with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying Computer Vision.
 
-2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an outstanding undergraduate project in the Central Universities Basic Research Fund (Barley Plan). 
+2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an outstanding undergraduate project in the Central Universities Basic Research Fund (Barley Plan),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
 
 2024.06: Work as a data analysis assistant in Product Operation Intern of Smart Home Department,iFLYTEK Co., Ltd.
 
@@ -57,7 +57,7 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 2023.11:🔥🔥 Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (iDEC) 2023 
 
-2023.09:Provincial-level Gold Medal in China College Students’ ’Internet+’ Innovation and Entrepreneurship Competition 
+2023.09:Provincial-level Gold Medal in China College Students’ ’Internet+’ Innovation and Entrepreneurship Competition （
 
 2023.08:International College Mathematical Modeling Competition Meritorious Winner 
 
@@ -65,11 +65,12 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 2023.02:🔥 National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
 
+2023.02:National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
+
 2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition 
 
 2022.10:🔥 First Prize in the National 2022 Second China University Big Data Challenge 
 
-2023.02:National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
 
 📖 Educations
 ======
