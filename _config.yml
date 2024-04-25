@@ -13,9 +13,9 @@ title                    :  "Zhongyu Yang"
 title_separator          : "-"
 name                     : &name "杨忠裕"
 description              : &description "personal description"
-url                      : https://01yzzyu.github.io/yzzyu.github.io/
+url                      : https://github.com/01yzzyu
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://01yzzyu.github.io/yzzyu.github.io/"
+repository               : "https://github.com/01yzzyu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
