@@ -65,8 +65,6 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 2023.02:🔥 National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
 
-2023.02:National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition 
-
 2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition 
 
 2022.10:🔥 First Prize in the National 2022 Second China University Big Data Challenge 
@@ -81,9 +79,9 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 💻 Internships
 ======
 
-2023.04 - Present, Research Assistant, CUHKSZ, Shenzhen，advised with [Ruimao Zhang](http://www.zhangruimao.site/).
+2023.04 - Present, Research Assistant, CUHKSZ, Shenzhen,advised with [Ruimao Zhang](http://www.zhangruimao.site/).
 
-2023.03 - Present, Remote Research Assistant, advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Postdoctoral in Heriot-Watt University,UK.
+2023.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Postdoctoral in Heriot-Watt University,UK.
 
 2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Beijing.
 
