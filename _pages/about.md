@@ -11,11 +11,11 @@ Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School
 
 I intend to pursue my Ph.D. degree now.
 
-My research interests include Energy Economics ,computer vision and AI for Science (Medical). You may relate to [my personal CV](https://01yzzyu.github.io/yzzyu.github.io/assets/CV(1).pdf) for more information. 
+My research interests include Energy Economics ,computer vision and AI for Science (Medical). You may relate to [my personal CV](https://01yzzyu.github.io/yzzyu.github.io/assets/CV(2).pdf) for more information. 
 
 Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
 
-Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn.
+Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn or yangzhy21@gmail.com.
 
 🔥 News
 ======
@@ -52,13 +52,15 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 ( * means Corresponding author)
 
-Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities
+📄 Energy Economics
+
+[Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669)
 
 Zhichao Yu,Wenlan Xie,Junjie Guo,Zhongyu Yang*
 
-Revision Submitted(Finance Research Letters , SSCI Q1 1/111)
+Finance Research Letters (SSCI Q1 1/111)
 
-Abstract:Amid China's rapid urbanization, this study evaluates the New Energy DemonstrationCities initiative for sustainable urban development using a quasi-experimental design.It analyzed data from designated cities, finding significant improvements in urban green development, enhanced by government intervention and industrial upgrading,and moderated by financial development. These results challenge broad, non-specific policies and underscore the importance of targeted interventions. This research highlights the critical role of precise, localized energy policies, providing key insights for policymakers and suggesting future research directions in policy effectiveness and environmental management.
+Abstract:In the context of China's rapid urbanization and pressing environmental challenges, this study evaluates the effectiveness of the New Energy Demonstration Cities initiative in fostering sustainable urban development. Employing a quasi-experimental design, the study specifically analyzed the impact of this initiative on urban green development, quantified through the metric of Green Total Factor Productivity (GTFP). Our findings reveal significant improvements in GTFP, indicating enhanced air pollution control and energy use efficiency through targeted government intervention and industrial upgrading, moderated by financial development. These results not only challenge the efficacy of broad, non-specific policies but also underscore the importance of precision in policy targeting. The study highlights how well-crafted, localized energy policies can drive substantial gains in sustainable urban growth, offering crucial insights for global policymakers and urban planners. This research extends the discourse on policy effectiveness in environmental management, suggesting pivotal areas for future investigation.
 
 ( * means Corresponding author)
 
@@ -67,6 +69,22 @@ Abstract:Amid China's rapid urbanization, this study evaluates the New Energy De
 📄 Energy Economics
 
 💻 Computer Vision
+Machine Learning Based Vibrator Bar Recognition System 
+
+Manuscript in Preparation / Expect to submit to AAAI
+
+Zhongyu Yang* ,Xuanming Jiang and Wei Su
+
+( * Means Corresponding Author)
+💻 Computer Vision
+
+Item Recommendation Algorithm Based on Knowledge Graph with Strongly and Weakly Connected Attention Mechanisms
+
+Manuscript in Preparation /Expect to submit to IEEE
+
+Zhongyu Yang*, Xuanming Jiang, Fuqing Wang and Wei Su
+
+( * Means Corresponding Author)
 
 🎖️ Honors and Awards
 ======
