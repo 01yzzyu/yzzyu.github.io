@@ -19,6 +19,7 @@ Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn.
 
 🔥 News
 ======
+2024.05:🔥🔥 Our paper [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669) is accepted to TOP Journals Finance Research Letters! A collabrative work with Zhichao Yu.
 
 2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
 
@@ -51,10 +52,6 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 ( * means Corresponding author)
 
-📄 Manuscripts
-======
-📄 Energy Economics
-
 Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities
 
 Zhichao Yu,Wenlan Xie,Junjie Guo,Zhongyu Yang*
@@ -64,6 +61,12 @@ Revision Submitted(Finance Research Letters , SSCI Q1 1/111)
 Abstract:Amid China's rapid urbanization, this study evaluates the New Energy DemonstrationCities initiative for sustainable urban development using a quasi-experimental design.It analyzed data from designated cities, finding significant improvements in urban green development, enhanced by government intervention and industrial upgrading,and moderated by financial development. These results challenge broad, non-specific policies and underscore the importance of targeted interventions. This research highlights the critical role of precise, localized energy policies, providing key insights for policymakers and suggesting future research directions in policy effectiveness and environmental management.
 
 ( * means Corresponding author)
+
+📄 Manuscripts
+======
+📄 Energy Economics
+
+💻 Computer Vision
 
 🎖️ Honors and Awards
 ======
@@ -96,6 +99,6 @@ Abstract:Amid China's rapid urbanization, this study evaluates the New Energy De
 
 2023.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Postdoctoral in Heriot-Watt University,UK.
 
-2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Beijing.
+2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Hefei.
 
 
