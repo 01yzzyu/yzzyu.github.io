@@ -27,9 +27,9 @@ Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn o
 
 2024.03:Work as a Remote Research Assistant with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying Computer Vision and Transfer Learning.
 
-2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an outstanding undergraduate project in the Central Universities Basic Research Fund (Barley Plan),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
+2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an [Outstanding Undergraduate project in the Central Universities Basic Research Fund (Barley Plan)](https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45)，as the sole sophomore student to be ranked first.(TOP 0.1%，36/20465)
 
-2024.06: Work as a Data Analysis Assistant in Product Operation Intern of Smart Home Department,iFLYTEK Co.,Ltd.
+2023.06: Work as a Data Analysis Assistant in Product Operation Intern of Smart Home Department,iFLYTEK Co.,Ltd.
 
 2023.05:🔥🔥 Our paper [Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy](https://doi.org/10.1016/j.renene.2023.05.044) is accepted to TOP Journals Renewable Energy! A collabrative work with Mengying Su.
 
@@ -115,7 +115,7 @@ Zhongyu Yang*, Xuanming Jiang, Fuqing Wang and Wei Su
 
 2023.04 - Present, Research Assistant, CUHKSZ, Shenzhen,advised with [Ruimao Zhang](http://www.zhangruimao.site/).
 
-2023.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Postdoctoral in Heriot-Watt University,UK.
+2023.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
 
 2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Hefei.
 
