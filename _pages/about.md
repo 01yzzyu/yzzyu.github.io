@@ -118,7 +118,3 @@ Zhongyu Yang*, Xuanming Jiang, Fuqing Wang and Wei Su
 2023.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
 
 2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Hefei.
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ"></script>
-
-
