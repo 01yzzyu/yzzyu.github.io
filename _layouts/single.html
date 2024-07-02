@@ -88,20 +88,26 @@ layout: default
   {% endif %}
 </div>
 
-<!-- 添加 ClustrMaps 脚本 -->
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ"></script>
-
-<!-- 添加自适应样式 -->
+<!-- ClustrMaps 部分 -->
 <style>
+  :root {
+    --clustrmaps-max-width: 300px;
+    --clustrmaps-width: 50%;
+  }
+
   #clustrmaps-widget {
-    width: 50%;
-    height: auto;
-    max-width: 300px; /* 根据需要调整最大宽度 */
-    margin: 0 auto; /* 居中显示 */
+    width: var(--clustrmaps-width);
+    max-width: var(--clustrmaps-max-width);
+    margin: 0 auto;
+  }
+
+  @media (max-width: 200px) {
+    :root {
+      --clustrmaps-width: 30%;
+    }
   }
 </style>
 
-<!-- ClustrMaps 地球仪容器 -->
 <div id="clustrmaps-widget"></div>
 
-</body>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ"></script>
