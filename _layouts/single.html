@@ -89,4 +89,28 @@ layout: default
 </div>
 
 <!-- ClustrMaps 部分 -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ&cl=ffffff&w=a"></script>
+<style>
+  :root {
+    --clustrmaps-max-width: 10px;
+    --clustrmaps-width: 10%;
+  }
+
+  #clustrmaps-widget {
+    width: var(--clustrmaps-width);
+    max-width: var(--clustrmaps-max-width);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media (max-width: 30px) {
+    :root {
+      --clustrmaps-width: 30%;
+    }
+  }
+</style>
+
+<div id="clustrmaps-widget"></div>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ&s=180"></script>
