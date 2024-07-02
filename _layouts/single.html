@@ -89,39 +89,21 @@ layout: default
 </div>
 
 <!-- ClustrMaps 部分 -->
-<!-- ClustrMaps 部分 -->
 <style>
-  :root {
-    --clustrmaps-max-width: 200px; /* 减小最大宽度 */
-    --clustrmaps-width: 30%; /* 减小宽度百分比 */
-  }
-
   #clustrmaps-widget {
-    width: var(--clustrmaps-width);
-    max-width: var(--clustrmaps-max-width);
-    margin: 20px auto; /* 增加上下边距 */
-    display: block; /* 确保元素为块级 */
+    width: 100%;
+    max-width: 200px; /* 你可以根据需要调整这个值 */
+    margin: 0 auto;
+    overflow: hidden;
   }
-
-  @media (max-width: 600px) {
-    :root {
-      --clustrmaps-width: 50%; /* 在小屏幕上稍微增加宽度 */
-    }
+  #clustrmaps-widget iframe {
+    width: 100% !important;
+    height: 200px !important; /* 固定高度,可以根据需要调整 */
+    border: none;
   }
 </style>
 
-<div id="clustrmaps-widget"></div>
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ"></script>
-
-<!-- 控制 ClustrMaps 大小的 JavaScript -->
-<script>
-  window.addEventListener('load', function() {
-    var widget = document.getElementById('clustrmaps-widget');
-    var globe = widget.querySelector('canvas');
-    if (globe) {
-      globe.style.width = '100%';
-      globe.style.height = 'auto';
-    }
-  });
-</script>
+<!-- ClustrMaps 地球仪容器 -->
+<div id="clustrmaps-widget">
+  <iframe src="//clustrmaps.com/map_v2.png?d=4qa-OA4bUBYb5PJcaBfftcWEvFu5a9m8o6J9PGvD7CQ&cl=ffffff" style="border:none;"></iframe>
+</div>
