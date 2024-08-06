@@ -11,7 +11,9 @@ Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School
 
 I intend to pursue my Ph.D. degree now.
 
-My research interests include Energy Economics ,computer vision and AI for Science (Medical). You may relate to [my personal CV](https://01yzzyu.github.io/yzzyu.github.io/assets/CV(2).pdf) for more information. 
+My research interests include Energy Economics ,Computer Vision and AI for Science (Medical). You may relate to [my personal CV](https://01yzzyu.github.io/yzzyu.github.io/assets/CV(2).pdf) for more information. 
+
+My long-term research goal is to develop intelligent machines that can actively perceive, analyze, and interpret human states, behaviors, and underlying motivations in dynamic scenes.
 
 Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
 
@@ -66,23 +68,24 @@ Abstract:In the context of China's rapid urbanization and pressing environmental
 
 📄 Manuscripts
 ======
-📄 Energy Economics
 
-💻 Computer Vision
-Machine Learning Based Vibrator Bar Recognition System 
+💻 Computer Vision and Audio
 
-Manuscript in Preparation / Expect to submit to AAAI
+Reprogramming Acoustic Models For Channel-Attention-Based Anomaly Detection and Classification
 
-Zhongyu Yang* ,Xuanming Jiang and Wei Su
+Manuscript in Preparation / Expect to submit to ICASSP 2025
+
+Zhongyu Yang* Xuanming Jiang, Baoyi An and Wei Su
 
 ( * Means Corresponding Author)
+
 💻 Computer Vision
 
-Item Recommendation Algorithm Based on Knowledge Graph with Strongly and Weakly Connected Attention Mechanisms
+[ReChar: Revitalising Characters with Decoupled Content and Style Injection](https://openreview.net/forum?id=ob4cOIoha6)
 
-Manuscript in Preparation /Expect to submit to IEEE
+Under Reviewing to AAAI 2025
 
-Zhongyu Yang*, Xuanming Jiang, Fuqing Wang and Wei Su
+Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
 
 ( * Means Corresponding Author)
 
