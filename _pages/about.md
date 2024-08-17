@@ -17,19 +17,21 @@ My long-term research goal is to develop intelligent machines that can actively 
 
 Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
 
-Feel free to reach out if you want to chat or collaborate yangzhy21@lzu.edu.cn or yangzhy21@gmail.com.
+Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy21@lzu.edu.cn or yangzhy21@gmail.com.
 
 🔥 News
 ======
+2024.08:🔥🔥 We present [ReChar]([https://doi.org/10.1016/j.frl.2024.105669](https://openreview.net/forum?id=ob4cOIoha6)) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
+
 2024.05:🔥🔥 Our paper [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669) is accepted to TOP Journals Finance Research Letters! A collabrative work with Zhichao Yu.
 
 2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
 
 2024.04:Now working as a Research Assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
-2024.03:Work as a Remote Research Assistant with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying Computer Vision and Transfer Learning.
+2024.03:Work as a Research Assistant with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying Computer Vision and Transfer Learning.
 
-2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an [Outstanding Undergraduate project in the Central Universities Basic Research Fund (Barley Plan)](https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45)，as the sole sophomore student to be ranked first.(TOP 0.1%，36/20465)
+2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an [Outstanding Undergraduate project in the Central Universities Basic Research Fund (Barley Plan)](https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45)，as the college student to be ranked first.(TOP 0.1%，36/20465)
 
 2023.06: Work as a Data Analysis Assistant in Product Operation Intern of Smart Home Department,iFLYTEK Co.,Ltd.
 
