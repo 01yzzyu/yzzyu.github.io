@@ -11,7 +11,7 @@ Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School
 
 I intend to pursue my Ph.D. degree now.
 
-My research interests include Energy Economics ,Computer Vision and AI for Science (Medical). You may relate to [my personal CV](https://01yzzyu.github.io/yzzyu.github.io/assets/CV(2).pdf) for more information. 
+My research interests include Energy Economics ,Computer Vision and AI for Science (Medical). You may relate to [my personal CV](assets/CV(2).pdf) for more information. 
 
 My long-term research goal is to develop intelligent machines that can actively perceive, analyze, and interpret human states, behaviors, and underlying motivations in dynamic scenes.
 
