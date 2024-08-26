@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics and Applied Mathematics. Currently, I am working as a research asssistant at CUHKSZ ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
-I intend to pursue my Ph.D. degree now.
+I intend to pursue my PhD. degree now.
 
 My research interests include Energy Economics ,Computer Vision and AI for Science (Medical). You may relate to [my personal CV]( https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/CV(2).pdf) for more information. 
 
@@ -21,11 +21,11 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 
 🔥 News
 ======
-2024.08:🔥🔥 We present [ReChar]([https://doi.org/10.1016/j.frl.2024.105669](https://openreview.net/forum?id=ob4cOIoha6)) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
+2024.08:🔥🔥🔥🔥 We present [ReChar]([https://doi.org/10.1016/j.frl.2024.105669](https://openreview.net/forum?id=ob4cOIoha6)) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
 
 2024.05:🔥🔥 Our paper [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669) is accepted to TOP Journals Finance Research Letters! A collabrative work with Zhichao Yu.
 
-2024.04:🔥🔥Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
+2024.04:🔥 Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
 
 2024.04:Now working as a Research Assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
@@ -33,13 +33,13 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 
 2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an [Outstanding Undergraduate project in the Central Universities Basic Research Fund (Barley Plan)](https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45)，as the college student to be ranked first.(TOP 0.1%，36/20465)
 
-2023.06: Work as a Data Analysis Assistant in Product Operation Intern of Smart Home Department,iFLYTEK Co.,Ltd.
+2023.06: Work as a Data Analysis Assistant in Intern of Smart Home Department,iFLYTEK Co.,Ltd.
 
 2023.05:🔥🔥 Our paper [Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy](https://doi.org/10.1016/j.renene.2023.05.044) is accepted to TOP Journals Renewable Energy! A collabrative work with Mengying Su.
 
-2023.03:🔥 Our paper [Analysis and Forecast of GDP of Gansu Province based on ARIMA Model](https://kns.cnki.net/kcms2/article/abstract?v=5UWSsHjGZiG4_hfQdJi2g45CsnhSUqAQWLr8QGITMYDA17gfF5JJx5zplDrZWLEtUw_cwdGQB4McAih5ZHCedzgYrtUdVTeeg8lwHr4Mw1ptUxJGRhILZmxdAXcxNVzRIf7iDdCVtPE=&uniplatform=NZKPT&flag=copy) is accepted to Chinese Market( Chinese core journal)! 
+2023.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project Tropical Linear Representation of Involute Chinese Monoids, advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
 
-2024.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project Tropical Linear Representation of Involute Chinese Monoids, advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
+2022.06:🔥 Our paper [Analysis and Forecast of GDP of Gansu Province based on ARIMA Model](https://kns.cnki.net/kcms2/article/abstract?v=5UWSsHjGZiG4_hfQdJi2g45CsnhSUqAQWLr8QGITMYDA17gfF5JJx5zplDrZWLEtUw_cwdGQB4McAih5ZHCedzgYrtUdVTeeg8lwHr4Mw1ptUxJGRhILZmxdAXcxNVzRIf7iDdCVtPE=&uniplatform=NZKPT&flag=copy) is accepted to Chinese Market( Chinese core journal)! 
 
 
 📝 Publications
@@ -77,7 +77,7 @@ Reprogramming Acoustic Models For Channel-Attention-Based Anomaly Detection and 
 
 Manuscript in Preparation / Expect to submit to ICASSP 2025
 
-Zhongyu Yang* Xuanming Jiang, Baoyi An and Wei Su
+Zhongyu Yang* Xuanming Jiang, Baoyi An , et al.   
 
 ( * Means Corresponding Author)
 
@@ -97,7 +97,7 @@ Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
 
 2023.11:🔥🔥 Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (IDEC) 2023 (Top 1%)
 
-2023.09:Provincial-level Gold Medal in China College Students’ ’Internet+’ Innovation and Entrepreneurship Competition (Top 1%)
+2023.09:Provincial-level Gold Medal in China College Students ’Internet+‘ Innovation and Entrepreneurship Competition (Top 1%)
 
 2023.08:International College Mathematical Modeling Competition Meritorious Winner (Top 6%)
 
@@ -119,8 +119,8 @@ Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
 💻 Internships
 ======
 
-2023.04 - Present, Research Assistant, CUHKSZ, Shenzhen,advised with [Ruimao Zhang](http://www.zhangruimao.site/).
+2024.04 - Present, Research Assistant, CUHKSZ, Shenzhen,advised with [Ruimao Zhang](http://www.zhangruimao.site/).
 
-2023.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
+2024.03 - Present, Remote Research Assistant,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
 
-2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., Hefei.
+2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., China.
