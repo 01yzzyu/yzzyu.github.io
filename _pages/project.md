@@ -43,7 +43,7 @@ author_profile: true
 
 <h3>Global Urban Sustainable Development Strategies and Empirical Research</h3>
 <p><strong>Program:</strong> Ural Federal University Program of Development within the Priority-2030 Program<br>
-<strong>Supervisor:</strong> Prof. Zhang Guoxing<br>
+<strong>Supervisor:</strong> Prof. Zhang Guoxing,Lanzhou University<br>
 <strong>Duration:</strong> May 2022 - June 2024</p>
 
 <ul>
@@ -61,7 +61,7 @@ author_profile: true
 
 <h3>FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer</h3>
 <p><strong>Program:</strong> National College Student Innovation and Entrepreneurship Training Program<br>
-<strong>Supervisor:</strong> Prof. Wang XingHua<br>
+<strong>Supervisor:</strong> Prof. Wang XingHua,Lanzhou University<br>
 <strong>Duration:</strong> Mar 2024 - Present</p>
 
 <ul>
@@ -79,7 +79,7 @@ author_profile: true
 
 <h3>UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation</h3>
 <p><strong>Program:</strong> Fundamental Research Funds for Central Universities Research Capacity Improvement Project<br>
-<strong>Supervisor:</strong> Prof. Zhang Wenting<br>
+<strong>Supervisor:</strong> Prof. Zhang Wenting,Lanzhou University<br>
 <strong>Duration:</strong> Jan 2024 - Present</p>
 
 <ul>
@@ -97,7 +97,7 @@ author_profile: true
 
 <h3>Recommendation Algorithm Based on Knowledge Graph and Strong-Weak Connection Attention Mechanism</h3>
 <p><strong>Program:</strong> Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment<br>
-<strong>Supervisor:</strong> Prof. Su Wei<br>
+<strong>Supervisor:</strong> Prof. Su Wei,Lanzhou University<br>
 <strong>Duration:</strong> Mar 2023 - May 2024</p>
 
 <ul>
@@ -115,7 +115,7 @@ author_profile: true
 
 <h3><a href="https://2023.igem.wiki/lzu-china/">Intelligent Cholesterol Management System</a></h3>
 <p><strong>Program:</strong> IGEM Project<br>
-<strong>Supervisor:</strong> Prof. Li Xiangkai<br>
+<strong>Supervisor:</strong> Prof. Li Xiangkai,Lanzhou University<br>
 <strong>Duration:</strong> Jan 2023 - Dec 2024</p>
 
 <ul>
@@ -133,7 +133,7 @@ author_profile: true
 
 <h3>Tropical Linear Representation of Involute Chinese Monoids</h3>
 <p><strong>Program:</strong> National College Student Innovation and Entrepreneurship Training Program<br>
-<strong>Supervisor:</strong> Prof. Zhang Wenting<br>
+<strong>Supervisor:</strong> Prof. Zhang Wenting,Lanzhou University<br>
 <strong>Duration:</strong> Mar 2023 - May 2024</p>
 
 <ul>
