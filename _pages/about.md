@@ -23,7 +23,7 @@ I intend to pursue my PhD. degree now.Feel free to reach out if you want to WeCh
 
 2024.05:🔥🔥 Our paper [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669) is accepted to TOP Journals Finance Research Letters! A collabrative work with Zhichao Yu.
 
-2024.04:🔥 Our project, entitled FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer, was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
+2024.04:🔥 Our project, entitled [FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=1186318&IsLXItem=1), was selected for funding under the national innovation and entrepreneurship project,advised by Professor Xinhua Wang.
 
 2024.04:Now working as a Research Assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
@@ -35,7 +35,7 @@ I intend to pursue my PhD. degree now.Feel free to reach out if you want to WeCh
 
 2023.05:🔥🔥 Our paper [Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy](https://doi.org/10.1016/j.renene.2023.05.044) is accepted to TOP Journals Renewable Energy! A collabrative work with Mengying Su.
 
-2023.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project Tropical Linear Representation of Involute Chinese Monoids, advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
+2023.03:🔥 As the sole sophomore student to be ranked first in the national innovation and entrepreneurship project [Tropical Linear Representation of Involute Chinese Monoids](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=1100306), advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45).
 
 2022.06:🔥 Our paper [Analysis and Forecast of GDP of Gansu Province based on ARIMA Model](https://kns.cnki.net/kcms2/article/abstract?v=5UWSsHjGZiG4_hfQdJi2g45CsnhSUqAQWLr8QGITMYDA17gfF5JJx5zplDrZWLEtUw_cwdGQB4McAih5ZHCedzgYrtUdVTeeg8lwHr4Mw1ptUxJGRhILZmxdAXcxNVzRIf7iDdCVtPE=&uniplatform=NZKPT&flag=copy) is accepted to Chinese Market( Chinese core journal)! 
 
