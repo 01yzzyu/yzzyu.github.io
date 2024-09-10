@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics and Applied Mathematics. Currently, I am working as a research asssistant at CUHKSZ ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
-My research interests include 2D/3D AIGC, Generative AI, Medical Image Analysis,3D Motion Modeling, Digital Human ,Energy Economics. You may relate to [my personal CV]( https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/CV(2).pdf) for more information. 
+My research interests include 2D/3D AIGC, Generative AI, Medical Image Analysis,3D Motion Modeling, Digital Human ,Energy Economics. You may relate to my personal [CV]( https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN]( https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
 My long-term research goal is to develop intelligent machines that can actively perceive, analyze, and interpret human states, behaviors, and underlying motivations in dynamic scenes.
 
