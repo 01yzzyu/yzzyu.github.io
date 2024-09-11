@@ -55,6 +55,8 @@ Zhongyu Yang* Xuanming Jiang, Baoyi An , et al.
 
 Under Reviewing to AAAI 2025
 
+Abstract:AI-Generated Content (AIGC) has recently experienced a remarkable surge in popularity, driven by its unparalleled efficiency, consistent production quality,  and exceptional capacity for customisation and diversification. The application of image generation spans a myriad of domains.However, research focusing on stylised character generation, especially Chinese characters,  remains under-explored due to the intricate nature of their stroke structures, the under-determined nature of style, and intractable style-content trade-off.Drawing inspiration from the pictogram subset of Chinese characters,  we introduce a controllable framework designed to create novel artworks that seamlessly incorporate text-guided elements and stylistic preferences into characters.Our approach, \textbf{ReChar}, not only enhances the aesthetic appeal but also opens new avenues for cultural and artistic expression.Our experimental results demonstrate that the generated characters can preserve the original structure and integrate decorative elements into the character strokes, reflecting distinct stylistic choices.
+
 Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
 
 ( * Means Corresponding Author)
