@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhongyu Yang (杨忠裕), a third-year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics and Applied Mathematics. Currently, I am working as a research asssistant at CUHKSZ ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
+Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics and Applied Mathematics. Currently, I am working as a research asssistant at CUHKSZ ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
 My research interests include 2D/3D AIGC, Generative AI, Medical Image Analysis,3D Motion Modeling, Digital Human ,Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
@@ -27,7 +27,7 @@ I intend to pursue my PhD. degree now.Feel free to reach out if you want to WeCh
 
 2024.04:Now working as a Research Assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
-2024.03:Work as a Remote Research Intern with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University,UK, studying AIGC（Artificial Intelligence Generated Content）.
+2024.03:Work as a Remote Research Intern with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University, UK, studying AIGC（Artificial Intelligence Generated Content）.
 
 2024.01:🔥🔥🔥Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an [Outstanding Undergraduate project in the Central Universities Basic Research Fund (Barley Plan)](https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45)，as the college student to be ranked first.(TOP 0.1%，36/20465)
 
