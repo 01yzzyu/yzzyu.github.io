@@ -119,6 +119,6 @@ Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
 
 2024.04 - Present, Research Assistant, CUHKSZ, Shenzhen,advised with [Ruimao Zhang](http://www.zhangruimao.site/).
 
-2024.03 - Present, Remote Research Intern,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
+2024.03 - 2024.09, Remote Research Intern,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
 
 2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., China.
