@@ -11,9 +11,7 @@ Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School
 
 My research interests include 2D/3D AIGC, Generative AI, Medical Image Analysis,3D Motion Modeling, Digital Human ,Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
-My long-term research goal is to develop intelligent machines that can actively perceive, analyze, and interpret human states, behaviors, and underlying motivations in dynamic scenes.
-
-Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
+In my past research, I am most interested in 2D/3D AIGC. In the short term, I hope to make a controllable and editable generative model to better understand multimodal input, not just prompt and visual encoder. My long-term research goal is to develop intelligent machines that can actively perceive, analyze and interpret human states, behaviors and potential motivations in dynamic scenes.Outside of research, I’m a big fan of the Los Angeles Lakers. My GOATs are Lionel Messi⚽ and LeBron James🏀 in their respective fields. In my free time, I enjoy playing basketball🏀 a lot.
 
 I intend to pursue my PhD. degree now.Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy21@lzu.edu.cn or yangzhy21@gmail.com.
 
