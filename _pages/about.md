@@ -64,29 +64,6 @@ Abstract:In the context of China's rapid urbanization and pressing environmental
 
 ( * Means Corresponding author)
 
-📄 Manuscripts
-======
-
-💻 Computer Vision and Audio
-
-Reprogramming Acoustic Models For Channel-Attention-Based Anomaly Detection and Classification
-
-Manuscript in Preparation / Expect to submit to ICASSP 2025
-
-Zhongyu Yang* Xuanming Jiang, Baoyi An , et al.   
-
-( * Means Corresponding Author)
-
-💻 Computer Vision
-
-[ReChar: Revitalising Characters with Decoupled Content and Style Injection](https://openreview.net/forum?id=ob4cOIoha6)
-
-Under Reviewing to AAAI 2025
-
-Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
-
-( * Means Corresponding Author)
-
 
 🎖️ Honors and Awards
 ======
