@@ -141,9 +141,7 @@ author_profile: true
   <li><strong>Methodologies:</strong>
     <ul>
       <li>Developing a formal mathematical framework for free monoids in the context of Chinese character combinations, leveraging concepts from universal algebra and category theory.</li>
-      <li>Implementing a novel rewriting system tailored to the structural properties of Chinese characters, incorporating both semantic and phonetic elements.</li>
       <li>Defining tropical linear representations for involution in Chinese monoids, utilizing max-plus algebra to capture the unique combinatorial properties of character formations.</li>
-      <li>Conducting computational experiments to validate the theoretical framework, employing large-scale corpus analysis of classical and modern Chinese texts.</li>
     </ul>
   </li>
   <li><strong>Theoretical Contributions:</strong> Successfully established a new class of tropical representations that accurately model the involutive structure of Chinese character combinations, with potential applications in natural language processing and machine translation for Chinese languages.</li>
