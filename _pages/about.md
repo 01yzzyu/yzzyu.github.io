@@ -99,4 +99,6 @@ Abstract:In the context of China's rapid urbanization and pressing environmental
 
 2024.03 - 2024.09, Remote Research Intern,advised with [Yingfang Yuan](https://yuanjames.github.io/) ,Research Fellow in Heriot-Watt University,UK.
 
+2024.01 - Present, Co-founder, Xi’an Jiyun Technology Co., Ltd, China.
+
 2023.06 - 2023.08, Data Analysis Assistant, iFLYTEK Co., Ltd., China.
