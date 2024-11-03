@@ -135,14 +135,15 @@ author_profile: true
 <p><strong>Program:</strong> National College Student Innovation and Entrepreneurship Training Program<br>
 <strong>Supervisor:</strong> Prof. Zhang Wenting,Lanzhou University<br>
 <strong>Duration:</strong> Mar 2023 - May 2024</p>
-
 <ul>
-  <li><strong>Objective:</strong> To introduce and define the tropical linear representation within Chinese monoids of involution, bridging abstract algebra with computational linguistics in the context of Chinese language processing.</li>
+  <li><strong>Objective:</strong> To give new tropical representations of the Chinese monoid and compare the dimension sizes with the existing representations; also to give a tropical representation of the Chinese monoid with Schützenberger's involution.
+  </li>
   <li><strong>Methodologies:</strong>
     <ul>
-      <li>Developing a formal mathematical framework for free monoids in the context of Chinese character combinations, leveraging concepts from universal algebra and category theory.</li>
-      <li>Defining tropical linear representations for involution in Chinese monoids, utilizing max-plus algebra to capture the unique combinatorial properties of character formations.</li>
+      <li>For the Chinese monoid \(Ch_n\) of finite rank \(n\geq2\), by defining the mapping \(\phi_{ij}\) and proving that it induces a tropical representation \(\phi_n\) of \(Ch_n\), further obtaining the mapping \(\tilde{\phi}_{n}\) which is a faithful tropical representation of \(Ch_n\) as a submonoid of \(UT_{n(n - 1)}(\mathbb{T})\).</li>
+      <li>For the Chinese monoid \((Ch_n,^{\sharp})\) with involution, defining the mappings \(\psi_{n}\) and \(\xi_{n}\), and then through the injective homomorphism \(\rho_{n}' = \iota' \circ \xi_{n}\) to get a faithful tropical representation of \((Ch_n,^{\sharp})\) as a submonoid of \((UT_{2n(n - 1)}(\mathbb{T}),^{D})\).</li>
     </ul>
   </li>
-  <li><strong>Theoretical Contributions:</strong> Successfully established a new class of tropical representations that accurately model the involutive structure of Chinese character combinations, with potential applications in natural language processing and machine translation for Chinese languages.</li>
+  <li><strong>Theoretical Contributions:</strong> Successfully presents new faithful tropical representations for Chinese monoids with and without involution, enriching understanding of their structure and properties in the context of tropical semirings and upper triangular matrices.
+</li>
 </ul>
