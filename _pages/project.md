@@ -140,8 +140,18 @@ author_profile: true
   </li>
   <li><strong>Methodologies:</strong>
     <ul>
-      <li>For the Chinese monoid \(Ch_n\) of finite rank \(n\geq2\), by defining the mapping \(\phi_{ij}\) and proving that it induces a tropical representation \(\phi_n\) of \(Ch_n\), further obtaining the mapping \(\tilde{\phi}_{n}\) which is a faithful tropical representation of \(Ch_n\) as a submonoid of \(UT_{n(n - 1)}(\mathbb{T})\).</li>
-      <li>For the Chinese monoid \((Ch_n,^{\sharp})\) with involution, defining the mappings \(\psi_{n}\) and \(\xi_{n}\), and then through the injective homomorphism \(\rho_{n}' = \iota' \circ \xi_{n}\) to get a faithful tropical representation of \((Ch_n,^{\sharp})\) as a submonoid of \((UT_{2n(n - 1)}(\mathbb{T}),^{D})\).</li>
+        <li>
+            For the Chinese monoid $Ch_n$ of finite rank $n\geq2$, by defining the mapping $\phi_{ij}$ 
+            and proving that it induces a tropical representation $\phi_n$ of $Ch_n$, further obtaining 
+            the mapping $\tilde{\phi}_{n}$ which is a faithful tropical representation of $Ch_n$ as 
+            a submonoid of $UT_{n(n - 1)}(\mathbb{T})$.
+        </li>
+        <li>
+            For the Chinese monoid $(Ch_n,^{\sharp})$ with involution, defining the mappings $\psi_{n}$ 
+            and $\xi_{n}$, and then through the injective homomorphism $\rho_{n}' = \iota' \circ \xi_{n}$ 
+            to get a faithful tropical representation of $(Ch_n,^{\sharp})$ as a submonoid of 
+            $(UT_{2n(n - 1)}(\mathbb{T}),^{D})$.
+        </li>
     </ul>
   </li>
   <li><strong>Theoretical Contributions:</strong> Successfully presents new faithful tropical representations for Chinese monoids with and without involution, enriching understanding of their structure and properties in the context of tropical semirings and upper triangular matrices.
