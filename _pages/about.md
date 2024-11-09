@@ -17,7 +17,7 @@ I intend to pursue my PhD. degree now.Feel free to reach out if you want to WeCh
 
 🔥 News
 ======
-2024.08:🔥🔥🔥🔥 We present [ReChar](https://openreview.net/forum?id=ob4cOIoha6) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
+2024.08:🔥🔥🔥🔥 We present [ReChar](https://01yzzyu.github.io/rechar.github.io/) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
 
 2024.05:🔥🔥 Our paper [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669) is accepted to TOP Journals Finance Research Letters! A collabrative work with Zhichao Yu.
 
