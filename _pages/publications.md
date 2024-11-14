@@ -47,6 +47,6 @@ Under Reviewing
 
 **Abstract:** AI-Generated Content (AIGC) has recently surged in popularity, driven by its efficiency, consistent output quality, and versatile customization capabilities. While applications of image generation extend across numerous domains, research into stylized language writing system generation remains limited, particularly within the context of aesthetic enhancement. Inspired by the pictogram subset of Chinese characters, we propose **ReChar**, which aims to create visually appealing and culturally rich artworks that seamlessly integrate **text-guided decorative elements** and **stylistic preferences** within **character structures**. Additionally, we introduce ImageNet-ReChar, the first benchmark dataset designed to assess stylized character generation, with a focus on the generalization of user-defined elements. Our evaluation across multiple languages (Chinese, Japanese, English, and Latin) demonstrates ReChar’s ability to preserve original character structures while embedding decorative elements into the strokes and incorporating user-defined styles to achieve aesthetic enhancement. Our qualitative and quantitative analyses reveal that ReChar consistently outperforms existing methods.
 
-Zhongyu Yang, Zuhao Yang, Zhang Luo, Wei Pang, Yang Xu, Yingfang Yuan*
+Zhongyu Yang, Zuhao Yang, Zhang Luo, Yonghan Zhang, Yang Xu, Wei Pang, Jingfen Lan, Yingfang Yuan†
 
 ( * Means Corresponding Author)
