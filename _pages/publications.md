@@ -41,7 +41,7 @@ Finance Research Letters (SSCI Q1 1/111)
 
 💻 Computer Vision
 
-[ReChar: Revitalising Characters with Decoupled Content and Style Injection](https://01yzzyu.github.io/rechar.github.io/)
+[ReChar: Revitalising Characters with Structure-Preserved and User-Specified Aesthetic Enhancements](https://01yzzyu.github.io/rechar.github.io/)
 
 Under Reviewing 
 
