@@ -22,7 +22,7 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 🔥 News
 ======
 
-2024.12:Work as a Remote Research Intern  with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/), King Abdullah University of Science and Technology (KAUST), Saudi Arabia, focus on developing and optimizing web-scale Retrieval-Augmented Generation (RAG) systems tailored for understanding up-to-date vision knowledge. .
+2024.12:Work as a Remote Research Intern  with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/), King Abdullah University of Science and Technology (KAUST), Saudi Arabia, focus on developing and optimizing web-scale Retrieval-Augmented Generation (RAG) systems tailored for understanding up-to-date vision knowledge. 
 
 2024.08:🔥🔥🔥 We present [ReChar](https://01yzzyu.github.io/rechar.github.io/) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
 
