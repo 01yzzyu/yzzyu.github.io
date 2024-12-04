@@ -21,7 +21,6 @@ author_profile: true
       <li>Developing a decoupled content and style injection mechanism to separately control the semantic content of actions and their stylistic execution, enhancing the flexibility and expressiveness of the generated motions.</li>
     </ul>
   </li>
-  <li><strong>Preliminary Results:</strong> Initial experiments demonstrate a 30% improvement in motion coherence and a 25% increase in style diversity compared to baseline methods, as evaluated by human experts in animation and computer graphics.</li>
 </ul>
 
 <h3>A Generative Model for Revitalising Characters with Decoupled Content and Style Injection</h3>
@@ -38,7 +37,6 @@ author_profile: true
       <li>Utilizing advanced computational techniques, including differential rendering and neural style transfer, to achieve a harmonious synthesis of traditional calligraphy and contemporary digital art.</li>
     </ul>
   </li>
-  <li><strong>Current Progress:</strong> Successfully developed a prototype capable of generating unique character artworks with a style consistency rate of 85% and a structural accuracy of 92%, as evaluated by expert calligraphers and digital artists.</li>
 </ul>
 
 <h3>Global Urban Sustainable Development Strategies and Empirical Research</h3>
@@ -56,7 +54,6 @@ author_profile: true
       <li>Developing a novel index for quantifying urban green development, incorporating multidimensional factors such as environmental quality, economic efficiency, and social equity.</li>
     </ul>
   </li>
-  <li><strong>Key Findings:</strong> Preliminary results indicate that cities with integrated green infrastructure policies show a 40% higher rate of progress towards sustainability goals, with economic diversification serving as a critical mediating factor.</li>
 </ul>
 
 <h3>FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer</h3>
@@ -74,7 +71,6 @@ author_profile: true
       <li>Integrating a multi-scale feature fusion module to enhance the network's ability to detect lesions of varying sizes and shapes.</li>
     </ul>
   </li>
-  <li><strong>Preliminary Results:</strong> The optimized FPGA-based system demonstrates a 3x speedup in processing time compared to GPU implementations, while maintaining a high Dice coefficient of 0.89 for target delineation accuracy.</li>
 </ul>
 
 <h3>UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation</h3>
@@ -92,7 +88,6 @@ author_profile: true
       <li>Utilizing curriculum learning strategies to progressively increase the complexity of training samples, optimizing the learning process for improved generalization.</li>
     </ul>
   </li>
-  <li><strong>Current Progress:</strong> Initial experiments on brain MRI segmentation tasks show a 15% improvement in Dice score and a 20% reduction in boundary error compared to state-of-the-art UNet variants.</li>
 </ul>
 
 <h3>Recommendation Algorithm Based on Knowledge Graph and Strong-Weak Connection Attention Mechanism</h3>
