@@ -22,7 +22,7 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 🔥 News
 ======
 
-2024.03:Work as a Remote Research Intern  with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/), KAUST, Saudi Arabia, studying AIGC（Artificial Intelligence Generated Content）.
+2024.03:Work as a Remote Research Intern  with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/), KAUST, Saudi Arabia, focus on developing and optimizing web-scale Retrieval-Augmented Generation (RAG) systems tailored for understanding up-to-date vision knowledge. .
 
 2024.08:🔥🔥🔥 We present [ReChar](https://01yzzyu.github.io/rechar.github.io/) to create novel artworks that seamlessly incorporate user-defined elements and stylistic preferences into Chinese characters.
 
@@ -30,9 +30,9 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 
 2024.04:🔥 Our project, entitled [FPGA-Based AI Doctor: Deep Learning-Based Clinical Target Delineation for Cervical Cancer](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=1186318&IsLXItem=1), was selected for funding under the national innovation and entrepreneurship project, advised by Professor Xinhua Wang.
 
-2024.04:Now working as a Research Assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
+2024.04:Star working as a Research Assistant in CUHKSZ,advised with [Ruimao Zhang](http://www.zhangruimao.site/), studying AI for Science and Computer Vision.
 
-2024.03:Work as a Remote Research Intern with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University, UK, studying AIGC（Artificial Intelligence Generated Content）.
+2024.03:Star working a Remote Research Intern with [Yingfang Yuan](https://yuanjames.github.io/) Heriot-Watt University, UK, studying AIGC（Artificial Intelligence Generated Content.
 
 2024.01:🔥🔥🔥 Our project, entitled UNet-Centric MambaMorph: A Comprehensive Visual Mamba Framework Enhanced with Cross-Scan and Semi-Supervised Learning for Medical Segmentation, has been selected as an [Outstanding Undergraduate project in the Central Universities Basic Research Fund (Barley Plan)](https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html),advised by Professor [Wenting Zhang](http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45)，as the college student to be ranked first.**(TOP 0.1%，36/20465)**
 
