@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as a research Intern at KAUST [Vision-Cair](https://vision-cair.kaust.edu.sa/) ,advised with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/).
 
-My research interests include 2D/3D AIGC, Generative AI, Medical Image Analysis,3D Motion Modeling, Digital Human ,Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
+My research interests include 2D/3D AIGC, Medical Image Analysis, 3D Motion Modeling and Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
 In my past research, I am most interested in 2D/3D AIGC. In the short term, I hope to make a controllable and editable generative model to better understand multimodal input, not just prompt and visual encoder. 
 My long-term research goal is to develop intelligent machines that can actively perceive, analyze and interpret human states, behaviors and potential motivations in dynamic scenes.
