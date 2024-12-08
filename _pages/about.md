@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as a research Intern at KAUST ,advised with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/).
+Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as a research Intern at KAUST [Vision-Cair](https://vision-cair.kaust.edu.sa/) ,advised with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/).
 
 My research interests include 2D/3D AIGC, Generative AI, Medical Image Analysis,3D Motion Modeling, Digital Human ,Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
