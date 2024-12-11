@@ -7,21 +7,6 @@ author_profile: true
 
 <h2>Current Research Projects</h2>
 
-<h3>Multi-Character Story to Motion with Decoupled Content and Style Injection</h3>
-<p><strong>Supervisor:</strong> <a href="http://www.zhangruimao.site/">Dr. Zhang Ruimao</a>, The Chinese University of Hong Kong, Shenzhen<br>
-<strong>Duration:</strong> June 2024 - Present</p>
-
-<ul>
-  <li><strong>Objective:</strong> To generate controlled, long-duration character actions and trajectories from extensive textual descriptions, bridging the gap between natural language understanding and complex motion synthesis.</li>
-  <li><strong>Methodologies:</strong>
-    <ul>
-      <li>Leveraging CLIP (Contrastive Language-Image Pre-training) for robust interpretation of textual descriptions, enabling a more nuanced understanding of action semantics.</li>
-      <li>Implementing a novel text-driven action retrieval system to identify and sequence relevant actions from a large-scale motion database, ensuring coherence and continuity in generated movements.</li>
-      <li>Utilizing an advanced asymptotic mask transformer for the generation of character trajectories, allowing for complex path planning and obstacle avoidance in virtual environments.</li>
-      <li>Developing a decoupled content and style injection mechanism to separately control the semantic content of actions and their stylistic execution, enhancing the flexibility and expressiveness of the generated motions.</li>
-    </ul>
-  </li>
-</ul>
 
 <h3>A Generative Model for Revitalising Characters with Decoupled Content and Style Injection</h3>
 <p><strong>Supervisor:</strong> <a href="https://yuanjames.github.io/">Dr. Yifan Yuan</a>, Heriot-Watt University, UK<br>
