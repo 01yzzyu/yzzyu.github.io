@@ -49,6 +49,7 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 ======
 📄 Energy Economics
 
+[![Renewable Energy](https://img.shields.io/badge/Renewable%20Energy-2024-green)](https://www.journals.elsevier.com/renewable-energy)
 [Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy](https://doi.org/10.1016/j.renene.2023.05.044) 
 
 Mengying Su, **Zhongyu Yang***, Shujaat Abbas, et al.
@@ -61,6 +62,7 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 📄 Energy Economics
 
+[![Finance Research Letters](https://img.shields.io/badge/Finance%20Research%20Letters-2024-%23FFD700)](https://www.journals.elsevier.com/finance-research-letters)
 [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669)
 
 Zhichao Yu,Wenlan Xie,Junjie Guo,**Zhongyu Yang***
