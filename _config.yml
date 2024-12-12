@@ -52,7 +52,7 @@ author:
   #impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-0190-8256"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Zhongyu-Yang-10"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -60,7 +60,7 @@ author:
   dribbble         : # Username
   github           : "01yzzyu"
   kaggle           : # Username  
-  stackoverflow    : "https://www.researchgate.net/profile/Zhongyu-Yang-10"
+  stackoverflow    : 
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
