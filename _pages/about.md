@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as a research Intern at KAUST [Vision-Cair](https://vision-cair.kaust.edu.sa/) ,advised with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/).
+Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as Intern at KAUST [Vision-Cair](https://vision-cair.kaust.edu.sa/), advised with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/).
 
 My research interests include 2D/3D AIGC, Medical Image Analysis, 3D Motion Modeling and Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
@@ -54,7 +54,7 @@ Feel free to reach out if you want to WeChat(13437555149) or collaborate yangzhy
 
 Mengying Su, **Zhongyu Yang***, Shujaat Abbas, et al.
 
-Renewable energy(SCI Q1 TOP)
+**Renewable energy(SCI Q1 TOP, IF = 9.0)**
 
 Abstract:The considerable increase in municipal waste has become a primary global concern due to the contamination of the environment through the emission of greenhouse gases. Therefore, many OECD countries have adopted municipal waste management practices. This study is a baseline attempt to explore the long-term effect of municipal waste management along with the energy transition, environmental innovation, and environmental policy stringency on GHG emissions in ten OECD countries from 1994 to 2020. This objective is realized by using non-parametric panel quantile regression. The estimated result reveals the asymmetric effect of selected explanatory variables on GHG emissions at various quantiles. The findings show that an increase in municipal waste can increase GHGs emissions at lower quantiles, while an insignificant effect is observed at higher quantiles. Similarly, energy transition, environmental innovation, and environmental policy stringency reveal asymmetric effects across the quantiles. The findings urge OECD countries to adopt more efficient municipal waste management practices and encourage renewable energy transition and environmental innovation. Environmental policy stringency can also be instrumental in enhancing environmental sustainability.
 
@@ -67,7 +67,7 @@ Abstract:The considerable increase in municipal waste has become a primary globa
 
 Zhichao Yu,Wenlan Xie,Junjie Guo,**Zhongyu Yang***
 
-Finance Research Letters (SSCI Q1 TOP, 1/111)
+**Finance Research Letters (SSCI Q1 TOP, 1/111, IF = 10.4)**
 
 Abstract:In the context of China's rapid urbanization and pressing environmental challenges, this study evaluates the effectiveness of the New Energy Demonstration Cities initiative in fostering sustainable urban development. Employing a quasi-experimental design, the study specifically analyzed the impact of this initiative on urban green development, quantified through the metric of Green Total Factor Productivity (GTFP). Our findings reveal significant improvements in GTFP, indicating enhanced air pollution control and energy use efficiency through targeted government intervention and industrial upgrading, moderated by financial development. These results not only challenge the efficacy of broad, non-specific policies but also underscore the importance of precision in policy targeting. The study highlights how well-crafted, localized energy policies can drive substantial gains in sustainable urban growth, offering crucial insights for global policymakers and urban planners. This research extends the discourse on policy effectiveness in environmental management, suggesting pivotal areas for future investigation.
 
@@ -76,21 +76,21 @@ Abstract:In the context of China's rapid urbanization and pressing environmental
 
 🎖️ Honors and Awards
 ======
-2024.11: Best Wiki Nominees & Winners, Scientific Contribution Awards in International Directed Evolution Competition (IDEC) 2024 (Top 5%)
+2024.11: Best Wiki Nominees & Winners, Scientific Contribution Awards in International Directed Evolution Competition (IDEC) 2024 **(Top 5%)**
 
-2024.10:🔥 Silver Medal in International Genetically Engineered Machine Competition (IGEM) 2024 (Top 15%)
+2024.10:🔥 Silver Medal in International Genetically Engineered Machine Competition (IGEM) 2024 **(Top 15%)
+**
+2023.11: Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (IDEC) 2023 **(Top 1%)**
 
-2023.11: Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (IDEC) 2023 (Top 1%)
+2023.09: Provincial-level Gold Medal in China College Students ’Internet+‘ Innovation and Entrepreneurship Competition **(Top 1%)**
 
-2023.09: Provincial-level Gold Medal in China College Students ’Internet+‘ Innovation and Entrepreneurship Competition (Top 1%)
-
-2023.08: International College Mathematical Modeling Competition Meritorious Winner (Top 6%)
+2023.08: International College Mathematical Modeling Competition Meritorious Winner **(Top 6%)**
 
 2023.05: Honorable Award of the American Collegiate Mathematical Contest in Modeling (Top 25%)
 
 2023.02: National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition (Top 17%)
 
-2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition (Top 3%)
+2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition ** (Top 3%)**
 
 2022.10: First Prize in the National 2022 Second China University Big Data Challenge (Top 8%)
 
