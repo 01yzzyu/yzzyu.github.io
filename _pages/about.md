@@ -78,7 +78,7 @@ Abstract:In the context of China's rapid urbanization and pressing environmental
 ======
 2024.11: Best Wiki Nominees & Winners, Scientific Contribution Awards in International Directed Evolution Competition (IDEC) 2024 **(Top 5%)**
 
-2024.10:🔥 Silver Medal in International Genetically Engineered Machine Competition (IGEM) 2024 **(Top 15%)
+2024.10:🔥 Silver Medal in International Genetically Engineered Machine Competition (IGEM) 2024 (Top 15%)
 **
 2023.11: Best hardware Winner, Best Target Molecule Nominees & Winner, Best Genome Evolutionary Outcomes Nominees & Winner, Bronze Awards in International Directed Evolution Competition (IDEC) 2023 **(Top 1%)**
 
