@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as Intern at KAUST [Vision-Cair](https://vision-cair.kaust.edu.sa/), advised with [Jun Chen](https://junchen14.github.io/) and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/).
+Hi! I’m Zhongyu Yang (杨忠裕), a final year undergraduate student at School of Mathematics and Statistics, Lanzhou University, majoring in Mathematics(the Basic Theory Class). Currently, I am working as Intern at KAUST [Vision-Cair](https://vision-cair.kaust.edu.sa/).
 
 My research interests include 2D/3D AIGC, Medical Image Analysis, 3D Motion Modeling and Energy Economics. You may relate to my personal [CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume.pdf) or [CV_CN](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Resume_CN.pdf) for more information. 
 
@@ -90,7 +90,7 @@ Abstract:In the context of China's rapid urbanization and pressing environmental
 
 2023.02: National Second Prize in the 12th APMCM Asia-Pacific College Student Mathematical Modeling Competition (Top 17%)
 
-2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition ** (Top 3%)**
+2022.12:🔥 National First Prize in 2022 National College Student Data Analysis Competition  **(Top 3%)**
 
 2022.10: First Prize in the National 2022 Second China University Big Data Challenge (Top 8%)
 
