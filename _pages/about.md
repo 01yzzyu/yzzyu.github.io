@@ -19,6 +19,12 @@ I am looking for a PhD position now.
 
 Feel free to reach out if you want to WeChat(13437555149) or collaborate with yangzhy21@lzu.edu.cn or yangzhy21@gmail.com.
 
+📖 Educations
+======
+
+2021.09 - 2025.06(Expected), Undergraduate, School of Mathematics and Statistics, Lanzhou University, Lanzhou, Gansu.
+
+
 🔥 News
 ======
 
@@ -95,10 +101,6 @@ Abstract: In the context of China's rapid urbanization and pressing environmenta
 2022.10: First Prize in the National 2022 Second China University Big Data Challenge (Top 8%)
 
 
-📖 Educations
-======
-
-2021.09 - 2025.06(Expected), Undergraduate, School of Mathematics and Statistics, Lanzhou University, Lanzhou, Gansu.
 
 
 💻 Internships
