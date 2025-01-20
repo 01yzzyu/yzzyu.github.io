@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "📝 Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,8 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=YOUR_ID&user=x2VGVvcAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
-
-📝 Publications
 ======
 📄 Energy Economics
 
@@ -20,7 +18,7 @@ Mengying Su, Zhongyu Yang*, Shujaat Abbas, et al.
 
 Renewable energy(SCI Q1 TOP)
 
-**Abstract:** The considerable increase in municipal waste has become a primary global concern due to the contamination of the environment through the emission of greenhouse gases. Therefore, many OECD countries have adopted municipal waste management practices. This study is a baseline attempt to explore the long-term effect of municipal waste management along with the energy transition, environmental innovation, and environmental policy stringency on GHG emissions in ten OECD countries from 1994 to 2020. This objective is realized by using non-parametric panel quantile regression. The estimated result reveals the asymmetric effect of selected explanatory variables on GHG emissions at various quantiles. The findings show that an increase in municipal waste can increase GHGs emissions at lower quantiles, while an insignificant effect is observed at higher quantiles. Similarly, energy transition, environmental innovation, and environmental policy stringency reveal asymmetric effects across the quantiles. The findings urge OECD countries to adopt more efficient municipal waste management practices and encourage renewable energy transition and environmental innovation. Environmental policy stringency can also be instrumental in enhancing environmental sustainability.
+**Abstract:** The considerable increase in municipal waste has become a primary global concern due to the contamination of the environment through the emission of greenhouse gases. Therefore, many OECD countries have adopted municipal waste management practices. This study is a baseline attempt to explore the long-term effect of municipal waste management along with the energy transition, environmental innovation, and environmental policy stringency on GHG emissions in ten OECD countries from 1994 to 2020. This objective is realized by using non-parametric panel quantile regression. The estimated result reveals the asymmetric effect of selected explanatory variables on GHG emissions at various quantiles. The findings show that an increase in municipal waste can increase GHGs emissions at lower quantiles, while an insignificant effect is observed at higher quantiles. Similarly, energy transition, environmental innovation, and environmental policy stringency reveal asymmetric effects across the quantiles. The findings urge OECD countries to adopt more efficient municipal waste management practices and encourage renewable energy transition and environmental innovation. Environmental policy stringency can also be instrumental in enhancing environmental sustainability.
 
 ( * Means Corresponding author)
 
@@ -28,7 +26,7 @@ Renewable energy(SCI Q1 TOP)
 
 [Green Effect of Energy Transition Policy: A quasi-natural Experiment Based on New Energy Demonstration Cities](https://doi.org/10.1016/j.frl.2024.105669)
 
-Zhichao Yu,Wenlan Xie,Junjie Guo,Zhongyu Yang*
+Zhichao Yu, Wenlan Xie, Junjie Guo, Zhongyu Yang*
 
 Finance Research Letters (SSCI Q1 1/111)
 
