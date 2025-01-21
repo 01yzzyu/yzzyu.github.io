@@ -8,8 +8,13 @@ author_profile: true
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- 加载 Latin Modern Roman 字体以模拟 Computer Modern -->
+    <link href="https://fonts.googleapis.com/css2?family=Latin+Modern+Roman&display=swap" rel="stylesheet">
     <style>
         /* 全局样式 */
+        body {
+            font-family: 'Latin Modern Roman', serif; /* 使用 Latin Modern Roman 模拟 Computer Modern */
+        }
         .publication-item {
             display: flex; /* 使用 Flexbox 布局 */
             align-items: center; /* 垂直居中 */
@@ -50,6 +55,10 @@ author_profile: true
         }
         a:hover {
             text-decoration: underline; /* 鼠标悬停时显示下划线 */
+        }
+        heading {
+            font-family: 'Latin Modern Roman', serif;
+            font-weight: bold;
         }
     </style>
 </head>
@@ -94,7 +103,7 @@ author_profile: true
         <div class="publication-item">
             <img src="/yzzyu.github.io/_pages/images/Greeneffect.png" alt="Green Effect">
             <div class="publication-content">
-                <a href="https://doi.org/10.1016/j.frl.2024.105669">      
+                <a href="https://doi.org/10.1016/j.frl.2024.105669">        
                     <div class="papertitle">Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities</div>
                 </a>
                 <div class="authors">
@@ -109,7 +118,7 @@ author_profile: true
                 <div class="metadata">
                     <em>Finance Research Letters (SSCI Q1 1/111)</em>
                     <br>
-                    <a href="https://doi.org/10.1016/j.frl.2024.105669"  >Paper</a>
+                    <a href="https://doi.org/10.1016/j.frl.2024.105669"    >Paper</a>
                 </div>
             </div>
         </div>
