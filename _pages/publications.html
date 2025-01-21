@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "📝 Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -14,6 +13,7 @@ author_profile: true
         /* 全局样式 */
         body {
             font-family: 'Latin Modern Roman', serif; /* 使用 Latin Modern Roman 模拟 Computer Modern */
+            font-size: 24px; /* 整体字体大2号 */
         }
         .publication-item {
             display: flex; /* 使用 Flexbox 布局 */
@@ -30,24 +30,24 @@ author_profile: true
             flex: 1; /* 文字部分占据剩余空间 */
         }
         .papertitle {
-            font-size: 18px; /* 标题字体大小 */
+            font-size: 24px; /* 标题字体大小 */
             font-weight: bold; /* 标题加粗 */
             color: #0F52BA; /* 标题颜色与作者名字一致 */
         }
         .authors {
             margin: 10px 0; /* 作者信息的外边距 */
             color: #555; /* 作者信息颜色 */
-            font-size: 14px; /* 减小2个字号 */
+            font-size: 20px; /* 减小2个字号 */
         }
         .abstract {
             margin: 10px 0; /* 摘要的外边距 */
             color: #666; /* 摘要颜色 */
-            font-size: 14px; /* 减小2个字号 */
+            font-size: 20px; /* 减小2个字号 */
         }
         .metadata {
             font-style: italic; /* 元数据斜体 */
             color: #777; /* 元数据颜色 */
-            font-size: 14px; /* 减小2个字号 */
+            font-size: 20px; /* 减小2个字号 */
         }
         a {
             color: #0F52BA; /* 链接颜色 */
@@ -60,25 +60,40 @@ author_profile: true
             font-family: 'Latin Modern Roman', serif;
             font-weight: bold;
         }
+        .badge {
+            background-color: #0F52BA; /* 背景颜色 */
+            color: white; /* 文字颜色 */
+            padding: 5px 10px; /* 内边距 */
+            border-radius: 5px; /* 圆角 */
+            font-size: 18px; /* 字体大小 */
+            font-weight: bold; /* 加粗 */
+            display: inline-block; /* 行内块元素 */
+            margin-bottom: 10px; /* 与图片的间距 */
+        }
     </style>
 </head>
 <body>
     <main>
         {% if site.author.googlescholar %}
+        <td style="padding:20px;width:100%;vertical-align:middle">
+            <heading style="font-size: 32px;"><i>Publications</i></heading>
+        </td>
         <div class="wordwrap">
             You can also find my articles on <a href="https://scholar.google.com/citations?user=YOUR_ID&user=x2VGVvcAAAAJ">Google Scholar</a>.
         </div>
         {% endif %}
 
         <hr>
-          <td style="padding:20px;width:100%;vertical-align:middle">
-            <heading style="font-size: 26px;"><i>Publications</i></heading>
-          </td>
-        
+
         <h2>Energy Economics</h2>
         <!-- Energy Economics 部分 -->
         <div class="publication-item">
-            <img src="/yzzyu.github.io/_pages/images/renewenegry.png" alt="Environmental Quality">
+            <div class="paper-box-image">
+                <div>
+                    <div class="badge">Renewable Energy</div> <!-- 添加 badge -->
+                    <img src="/yzzyu.github.io/_pages/images/renewenegry.png" alt="Environmental Quality">
+                </div>
+            </div>
             <div class="publication-content">
                 <a href="https://doi.org/10.1016/j.renene.2023.05.044">
                     <div class="papertitle">Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy</div>
@@ -101,9 +116,14 @@ author_profile: true
         </div>
 
         <div class="publication-item">
-            <img src="/yzzyu.github.io/_pages/images/Greeneffect.png" alt="Green Effect">
+            <div class="paper-box-image">
+                <div>
+                    <div class="badge">Finance Research Letters</div> <!-- 添加 badge -->
+                    <img src="/yzzyu.github.io/_pages/images/Greeneffect.png" alt="Green Effect">
+                </div>
+            </div>
             <div class="publication-content">
-                <a href="https://doi.org/10.1016/j.frl.2024.105669">        
+                <a href="https://doi.org/10.1016/j.frl.2024.105669">            
                     <div class="papertitle">Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities</div>
                 </a>
                 <div class="authors">
@@ -118,7 +138,7 @@ author_profile: true
                 <div class="metadata">
                     <em>Finance Research Letters (SSCI Q1 1/111)</em>
                     <br>
-                    <a href="https://doi.org/10.1016/j.frl.2024.105669"    >Paper</a>
+                    <a href="https://doi.org/10.1016/j.frl.2024.105669"  >Paper</a>
                 </div>
             </div>
         </div>
@@ -127,7 +147,12 @@ author_profile: true
 
         <h2>Computer Vision</h2>
         <div class="publication-item">
-            <img src="/yzzyu.github.io/_pages/images/rechar_framework.png" alt="ReChar">
+            <div class="paper-box-image">
+                <div>
+                    <div class="badge">Under Review</div> <!-- 添加 badge -->
+                    <img src="/yzzyu.github.io/_pages/images/rechar_framework.png" alt="ReChar">
+                </div>
+            </div>
             <div class="publication-content">
                 <a href="https://01yzzyu.github.io/rechar.github.io/">
                     <div class="papertitle">ReChar: <font color="#FF0000">Re</font>vitalising <font color="#FF0000">Char</font>acters with Structure-Preserved and User-Specified Aesthetic Enhancements</div>
