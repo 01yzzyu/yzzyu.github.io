@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "📝 Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,13 +8,11 @@ author_profile: true
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- 加载 Latin Modern Roman 字体以模拟 Computer Modern -->
-    <link href="https://fonts.googleapis.com/css2?family=Latin+Modern+Roman&display=swap" rel="stylesheet">
     <style>
         /* 全局样式 */
         body {
-            font-family: 'Latin Modern Roman', serif; /* 使用 Latin Modern Roman 模拟 Computer Modern */
-            font-size: 24px; /* 整体字体大2号 */
+            font-family: Arial, sans-serif; /* 使用标准字体 */
+            font-size: 16px; /* 整体字体小2号 */
         }
         .publication-item {
             display: flex; /* 使用 Flexbox 布局 */
@@ -30,24 +29,24 @@ author_profile: true
             flex: 1; /* 文字部分占据剩余空间 */
         }
         .papertitle {
-            font-size: 24px; /* 标题字体大小 */
+            font-size: 18px; /* 标题字体大小 */
             font-weight: bold; /* 标题加粗 */
             color: #0F52BA; /* 标题颜色与作者名字一致 */
         }
         .authors {
             margin: 10px 0; /* 作者信息的外边距 */
             color: #555; /* 作者信息颜色 */
-            font-size: 20px; /* 减小2个字号 */
+            font-size: 14px; /* 减小2个字号 */
         }
         .abstract {
             margin: 10px 0; /* 摘要的外边距 */
             color: #666; /* 摘要颜色 */
-            font-size: 20px; /* 减小2个字号 */
+            font-size: 14px; /* 减小2个字号 */
         }
         .metadata {
             font-style: italic; /* 元数据斜体 */
             color: #777; /* 元数据颜色 */
-            font-size: 20px; /* 减小2个字号 */
+            font-size: 14px; /* 减小2个字号 */
         }
         a {
             color: #0F52BA; /* 链接颜色 */
@@ -57,27 +56,14 @@ author_profile: true
             text-decoration: underline; /* 鼠标悬停时显示下划线 */
         }
         heading {
-            font-family: 'Latin Modern Roman', serif;
+            font-family: Arial, sans-serif;
             font-weight: bold;
-        }
-        .badge {
-            background-color: #0F52BA; /* 背景颜色 */
-            color: white; /* 文字颜色 */
-            padding: 5px 10px; /* 内边距 */
-            border-radius: 5px; /* 圆角 */
-            font-size: 18px; /* 字体大小 */
-            font-weight: bold; /* 加粗 */
-            display: inline-block; /* 行内块元素 */
-            margin-bottom: 10px; /* 与图片的间距 */
         }
     </style>
 </head>
 <body>
     <main>
         {% if site.author.googlescholar %}
-        <td style="padding:20px;width:100%;vertical-align:middle">
-            <heading style="font-size: 32px;"><i>Publications</i></heading>
-        </td>
         <div class="wordwrap">
             You can also find my articles on <a href="https://scholar.google.com/citations?user=YOUR_ID&user=x2VGVvcAAAAJ">Google Scholar</a>.
         </div>
@@ -88,44 +74,46 @@ author_profile: true
         <h2>Energy Economics</h2>
         <!-- Energy Economics 部分 -->
         <div class="publication-item">
-            <div class="paper-box-image">
-                <div>
-                    <div class="badge">Renewable Energy</div> <!-- 添加 badge -->
-                    <img src="/yzzyu.github.io/_pages/images/renewenegry.png" alt="Environmental Quality">
-                </div>
-            </div>
+            <img src="/yzzyu.github.io/_pages/images/renewenegry.png" alt="Environmental Quality">
             <div class="publication-content">
-                <a href="https://doi.org/10.1016/j.renene.2023.05.044">
+                <a href="https://doi.org/10.1016/j.renene.2023.05.044">  
                     <div class="papertitle">Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy</div>
                 </a>
+                <div class="metadata">
+                    <em>
+                        <span class="journal-name"><em>Renewable Energy</span>
+                        <span class="journal-info">(SCI Q1 TOP, IF = 9.0)</span>
+                    </em>
+                </div>
                 <div class="authors">
                     Mengying Su, &nbsp;
                     <strong style="color: #0F52BA;">Zhongyu Yang*</strong>, &nbsp;
                     Shujaat Abbas, &nbsp;
-                    et al.
+                    Yuriy Bilan,  &nbsp;
+                    Agnieszka Majewska
                 </div>
                 <div class="abstract">
                     The considerable increase in municipal waste has become a primary global concern due to the contamination of the environment through the emission of greenhouse gases. Therefore, many OECD countries have adopted municipal waste management practices. This study is a baseline attempt to explore the long-term effect of municipal waste management along with the energy transition, environmental innovation, and environmental policy stringency on GHG emissions in ten OECD countries from 1994 to 2020. This objective is realized by using non-parametric panel quantile regression. The estimated result reveals the asymmetric effect of selected explanatory variables on GHG emissions at various quantiles. The findings show that an increase in municipal waste can increase GHGs emissions at lower quantiles, while an insignificant effect is observed at higher quantiles. Similarly, energy transition, environmental innovation, and environmental policy stringency reveal asymmetric effects across the quantiles. The findings urge OECD countries to adopt more efficient municipal waste management practices and encourage renewable energy transition and environmental innovation. Environmental policy stringency can also be instrumental in enhancing environmental sustainability.
                 </div>
                 <div class="metadata">
-                    <em>Renewable Energy (SCI Q1 TOP)</em>
-                    <br>
+                    
                     <a href="https://doi.org/10.1016/j.renene.2023.05.044">Paper</a>
                 </div>
             </div>
         </div>
 
         <div class="publication-item">
-            <div class="paper-box-image">
-                <div>
-                    <div class="badge">Finance Research Letters</div> <!-- 添加 badge -->
-                    <img src="/yzzyu.github.io/_pages/images/Greeneffect.png" alt="Green Effect">
-                </div>
-            </div>
+            <img src="/yzzyu.github.io/_pages/images/Greeneffect.png" alt="Green Effect">
             <div class="publication-content">
-                <a href="https://doi.org/10.1016/j.frl.2024.105669">            
+                <a href="https://doi.org/10.1016/j.frl.2024.105669">          
                     <div class="papertitle">Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities</div>
                 </a>
+                <div class="metadata">
+                    <em>
+                        <span class="journal-name">Finance Research Letters</span>
+                        <span class="journal-info">(SSCI Q1 TOP, 1/111, IF=10.4)</span>
+                    </em>
+                </div>
                 <div class="authors">
                     Zhichao Yu, &nbsp;
                     Wenlan Xie, &nbsp;
@@ -136,8 +124,6 @@ author_profile: true
                     In the context of China's rapid urbanization and pressing environmental challenges, this study evaluates the effectiveness of the New Energy Demonstration Cities initiative in fostering sustainable urban development. Employing a quasi-experimental design, the study specifically analyzed the impact of this initiative on urban green development, quantified through the metric of Green Total Factor Productivity (GTFP). Our findings reveal significant improvements in GTFP, indicating enhanced air pollution control and energy use efficiency through targeted government intervention and industrial upgrading, moderated by financial development. These results not only challenge the efficacy of broad, non-specific policies but also underscore the importance of precision in policy targeting. The study highlights how well-crafted, localized energy policies can drive substantial gains in sustainable urban growth, offering crucial insights for global policymakers and urban planners. This research extends the discourse on policy effectiveness in environmental management, suggesting pivotal areas for future investigation.
                 </div>
                 <div class="metadata">
-                    <em>Finance Research Letters (SSCI Q1 1/111)</em>
-                    <br>
                     <a href="https://doi.org/10.1016/j.frl.2024.105669"  >Paper</a>
                 </div>
             </div>
@@ -147,16 +133,16 @@ author_profile: true
 
         <h2>Computer Vision</h2>
         <div class="publication-item">
-            <div class="paper-box-image">
-                <div>
-                    <div class="badge">Under Review</div> <!-- 添加 badge -->
-                    <img src="/yzzyu.github.io/_pages/images/rechar_framework.png" alt="ReChar">
-                </div>
-            </div>
+            <img src="/yzzyu.github.io/_pages/images/rechar_framework.png" alt="ReChar">
             <div class="publication-content">
                 <a href="https://01yzzyu.github.io/rechar.github.io/">
                     <div class="papertitle">ReChar: <font color="#FF0000">Re</font>vitalising <font color="#FF0000">Char</font>acters with Structure-Preserved and User-Specified Aesthetic Enhancements</div>
                 </a>
+                <div class="metadata">
+                    <em>
+                        <span class="journal-name"><em>Under Review</span>
+                    </em>
+                </div>
                 <div class="authors">
                     <strong style="color: #0F52BA;">Zhongyu Yang</strong>, &nbsp;
                     Zuhao Yang, &nbsp;
@@ -165,14 +151,12 @@ author_profile: true
                     Yang Xu, &nbsp;
                     Wei Pang, &nbsp;
                     Jingfen Lan, &nbsp;
-                    Yingfang Yuan†
+                    Yingfang Yuan*
                 </div>
                 <div class="abstract">
                     AI-Generated Content (AIGC) has recently surged in popularity, driven by its efficiency, consistent output quality, and versatile customization capabilities. While applications of image generation extend across numerous domains, research into stylized language writing system generation remains limited, particularly within the context of aesthetic enhancement. Inspired by the pictogram subset of Chinese characters, we propose <strong>ReChar</strong>, which aims to create visually appealing and culturally rich artworks that seamlessly integrate <strong>text-guided decorative elements</strong> and <strong>stylistic preferences</strong> within <strong>character structures</strong>. Additionally, we introduce ImageNet-ReChar, the first benchmark dataset designed to assess stylized character generation, with a focus on the generalization of user-defined elements. Our evaluation across multiple languages (Chinese, Japanese, English, and Latin) demonstrates ReChar’s ability to preserve original character structures while embedding decorative elements into the strokes and incorporating user-defined styles to achieve aesthetic enhancement. Our qualitative and quantitative analyses reveal that ReChar consistently outperforms existing methods.
                 </div>
                 <div class="metadata">
-                    <em>Under Review</em>
-                    <br>
                     <a href="https://01yzzyu.github.io/rechar.github.io/">Project Page</a>
                 </div>
             </div>
