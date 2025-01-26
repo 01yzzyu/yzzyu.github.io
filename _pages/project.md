@@ -9,7 +9,7 @@ author_profile: true
 
 
 <h3>A Generative Model for Revitalising Characters with Decoupled Content and Style Injection</h3>
-<p><strong>Supervisor:</strong> <a href="https://yuanjames.github.io/">Dr. Yifan Yuan</a>, Heriot-Watt University, UK<br>
+<p><strong>Supervisor:</strong> <a href="https://yuanjames.github.io/">Dr. Yingfang Yuan</a>, Heriot-Watt University, UK<br>
 <strong>Duration:</strong> May 2023 - Present</p>
 
 <ul>
